@@ -1,2 +1,2 @@
 # LearnVulkan
-Repository to Keep track and to Learn Vulkan Extensively
+Templated project that will have majority of the main libraries that are going to be needed for grpahics development.
